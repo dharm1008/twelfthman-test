@@ -61,7 +61,7 @@ const Assignment1 = () => {
         </div>
         <div class="space-y-8 sm:gap-6 md:grid md:grid-cols-2 md:space-y-0 lg:grid lg:grid-cols-3 lg:space-y-0 xl:gap-10">
           {/* <!-- Pricing Card --> */}
-          <div class="mx-auto flex w-full flex-col rounded-lg border border-indigo-100 bg-white p-6 text-center text-gray-900 shadow  xl:p-8">
+          <div class="mx-auto flex w-full flex-col rounded-lg border border-indigo-600 bg-white p-6 text-center text-gray-900 shadow  xl:p-8">
             <div class="my-8 flex items-baseline justify-center">
               <span class="mr-2 text-3xl font-extrabold">$10/mth</span>
             </div>
@@ -80,7 +80,7 @@ const Assignment1 = () => {
             <Button />
           </div>
           {/* <!-- Pricing Card --> */}
-          <div class="mx-auto flex w-full flex-col rounded-lg border border-indigo-100 bg-white p-6 text-center text-gray-900 shadow  xl:p-8">
+          <div class="mx-auto flex w-full flex-col rounded-lg border border-indigo-600 bg-white p-6 text-center text-gray-900 shadow  xl:p-8">
             <div class="my-8 flex items-baseline justify-center">
               <span class="mr-2 text-3xl font-extrabold">$20/mth</span>
             </div>
@@ -98,7 +98,7 @@ const Assignment1 = () => {
             <Button />
           </div>
           {/* <!-- Pricing Card --> */}
-          <div class="mx-auto flex w-full flex-col rounded-lg border border-indigo-100 bg-white p-6 text-center text-gray-900 shadow  xl:p-8">
+          <div class="mx-auto flex w-full flex-col rounded-lg border border-indigo-600 bg-white p-6 text-center text-gray-900 shadow  xl:p-8">
             <div class="my-8 flex items-baseline justify-center">
               <span class="mr-2 text-3xl font-extrabold">$40/mth</span>
             </div>
